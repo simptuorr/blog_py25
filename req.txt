@@ -1,0 +1,4 @@
+django
+djangorestframewotk
+psycopg2-binary
+python-decouple
